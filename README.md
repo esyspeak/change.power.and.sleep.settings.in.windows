@@ -1,7 +1,7 @@
 # Change.power.and.sleep.settings.in.windows
 
 
-[![Change power and sleep settings in windows](red2.png)](https://computersolve.com/change-power-and-sleep-settings-in-windows/)
+[![Change power and sleep settings in windows](red2.png)](https://icncomputer.com/change-power-and-sleep-settings-in-windows/)
 
 **Options to Change Windows 10 Power Settings**
 _The 3 methods to change Windows 10 power settings discussed in this guide are:_
